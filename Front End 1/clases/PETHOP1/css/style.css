@@ -1,0 +1,357 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&family=Roboto:wght@100;300&display=swap');
+
+/* Header */
+/* Primer encabezado de la pagina */
+.encabezado {
+    background-color:#222222;
+    color:#F3F3F3;
+    display: flex;
+}
+
+.encabezado .header-text {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.encabezado .header-text2 {
+    margin-top: 10px;
+    margin-left: 950px;
+}
+
+.encabezado .header-text3 {
+    margin-top: 10px;
+    margin-left: -150px;
+}
+
+/* Segundo encabezado de la pagina (Titulo e imagenes) */
+
+.encabezado2 {
+    background: #F0A83E;
+    display: flex;
+    height: 150px;
+}
+
+.title {
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.img-1 img {
+    margin-top: 25px;
+    width: 60px;
+}
+
+.img-2 img {
+    margin-top: 25px;
+    width: 60px;
+}
+
+/* Menu Header */
+.nav-bar  {
+    color:#F3F3F3;
+    display: flex;
+    margin-left: 350px;
+}
+
+.nav-bar .box5 {
+    padding: 40px;
+    margin-left: 10px;
+}
+
+.nav-bar .box6 {
+    padding: 40px;
+    margin-left: 10px;
+}
+
+.nav-bar .box7 {
+    padding: 40px;
+    margin-left: 10px;
+}
+
+.nav-bar .box8 {
+    padding: 40px;
+    margin-left: 10px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+}
+
+/* Main */
+/* Cuerpo de la pagina */
+body {
+    background: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Banner publicitario */
+.banner-img img {
+    margin-left: -40px;
+    margin-top: -15px;
+    width: 98vw;
+}
+
+.banner-principal div .subtitle {
+    background-color: white;
+    border-radius: 0.15em;
+    display: inline-block;
+    font-size: 30px;    
+    margin-top: -350px;
+    margin-left: 1000px;
+    position: absolute;
+}
+
+.banner-principal div .subtitle2 {
+    display: inline-block;
+    font-size: 16px; 
+    margin-top: -280px;
+    margin-left: 1080px;
+    position: absolute;
+
+}
+
+.banner-principal div .subtitle3 {
+    background-color: #F0A83E;
+    color: white;
+    display: inline-block;
+    font-size: 16px; 
+    margin-top: -220px;
+    margin-left: 1130px;
+    position: absolute;
+    padding:20px;
+    text-align: center;
+
+}
+ 
+/* Pawprint  */
+.pawprint img {
+    Width:100px;
+    margin-left: 46%;
+    margin-top: -10px;
+}
+/* Subtitulo de productos */
+.subtitle-principal {
+    font-size: 40px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.menu2 {
+    display: flex;
+    font-size: 15px;
+    margin-left: 520px;
+}
+
+.menu2 li a {
+    color: #666666;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.box-item {
+    margin-left: 200px;
+}
+
+.item {
+    padding: 20px;
+    display: inline-block;
+}
+
+.item2 {
+    padding: 20px;
+    display: inline-block;
+}
+
+.item3 {
+    padding: 20px;
+    display: inline-block;
+}
+
+figcaption {
+    text-align: center;
+}
+
+figcaption p {
+    color: #F0A83E;
+    font-weight: bold;
+}
+
+/* Contactanos */
+.subtitle-principal2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+/* Campos/Formulario de contactanos */
+.form-div1 {
+    background-color:#3C2313;
+    border-radius: 3em;
+    display: inline-block;
+    width: 340px;
+    margin-left: 38%;
+    padding: 20px;
+}
+
+.form-div1 input {
+    background-color: transparent;
+    border: none;
+    width: 300px;
+}
+
+.form-div2 {
+    background-color:#3C2313;
+    border-radius: 3em;
+    display: inline-block;
+    width: 340px;
+    margin-left: 38%;
+    padding: 20px;
+}
+
+.form-div2 input {
+    background-color: transparent;
+    border: none;
+    width: 300px;
+}
+
+.form-div3 {
+    background-color:#3C2313;
+    border-radius: 3em;
+    display: inline-block;
+    width: 340px;
+    margin-left: 38%;
+    padding: 20px;
+}
+
+.form-div3 input {
+    background-color: transparent;
+    border: none;
+    width: 300px;
+}
+
+/* Botones */
+.btn {
+    background-color:#8A8787;
+    border-radius:3em;
+    color: #E5E5E5;
+    display: inline-block;
+    font-size: 16px;
+    height: 54px;
+    margin-left: 44%;
+    padding: 15px;
+    width: 110px;
+}
+
+.btn2 {
+    background-color:#F0A83E;
+    border-radius:3em;
+    color: #E5E5E5;
+    display: inline-block;
+    font-size: 16px;
+    height: 54px;
+    padding: 15px;
+    width: 110px;
+}
+
+/* Suscribete para mas novedades */
+
+.suscribete {
+    background-color:#F0A83E;
+    display: flex ;
+    height: 100px;
+}
+
+.msn {
+    width: 35px;
+    margin-top: 40px;
+}
+
+.msn2 {
+    color: #E5E5E5;
+    font-size: 30px;
+    margin-top: 30px;
+    width: 600px;
+}
+
+.btn3 {
+    background-color: #3C2313;
+    border-radius: 3em;
+    color: #E5E5E5;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 25px;
+    width:110px;
+}
+
+.msn3 input {
+    border-radius: 3em;
+    height: 40px;
+    margin-left: 320px;
+    margin-top: 25px;
+    width: 271px;
+}
+
+/* Footer */
+.pie-pagina {
+    background-color: #3C2313;
+    display: flex;
+}
+
+.image1 {
+
+    padding: 50px;
+    
+    width:300px;
+}
+
+.image2 {
+
+    padding: 50px;
+    
+    margin-left: 200px;
+    width:300px;
+}
+
+.image3 {
+    padding: 50px;
+    width:300px;
+}
+
+.image1 img {
+    width:200px;
+}
+
+.image2 img {
+    margin-left: -160px;
+    margin-top: -40px;
+    width:200px;
+}
+
+.image3 img {
+    margin-top: -40px;
+    width:290px;
+}
+
+.sub-pie-pagina2 {
+    display: flex;
+    margin-left: 350px;
+    margin-top: 250px;
+}
+
+.footer-title {
+    color: #E5E5E5;
+}
+
+.image4 img {
+    width: 60px;
+}
+
+.image5 img {
+    width: 60px;
+}
+
+
+.info-footer {
+    background-color: #222222;
+    color: #E5E5E5;
+    text-align: center;
+}

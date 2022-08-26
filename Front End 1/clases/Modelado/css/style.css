@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: content-box; /* deja los formatos por defecto*/
+}
+
+div{
+    background-color: aqua;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 15px;
+    border: 15px solid black;
+
+}
+
+/*
+span{
+    background-color:blue;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+}*/
+
+
