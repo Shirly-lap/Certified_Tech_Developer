@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <span>20% de descuentos en todos los productos</span>
+        <div class="logo">
+            <img src="img/Logo.png" alt="">
+            <h2>Nombre de la marca</h2>
+        </div>
+
+        <section class="nav">
+            <nav>
+                <ul>
+                    <li><a href="">Contactos</a></li>
+                    <li><a href="">Registrarme</a></li>
+                    <li><a href="">Ingresar</a></li>
+                </ul>
+            </nav>
+        </section>
+
+    </header>
+
+    <main>
+
+        <div class="container">
+            <div class="conten-container">
+                <h1> Añadí tu super!</h1>
+                <p>Agrega tu personaje favorito completando las opción</p>
+                <form class="formulario" action="" method="post">
+
+                    <div class="camp-f1">
+                        <label for="name">*Nombre</label>
+                        <input type="text" name="name" id="name" required>
+                    </div>
+
+                    <div class="camp-f1">
+                        <label for="especie">*Especie</label>
+                        <select name="select">
+                            <option value="#"></option>
+                            <option value="Perro">Perro</option>
+                            <option value="Gato">Gato</option>
+                            <option value="Loro">Loro</option>
+                        </select>
+                    </div>
+
+                    <div class="camp-f1">
+
+                        <label for="fecha">Fecha</label>
+                        <input type="date" name="date" id="date" placeholder="dd/mm/aa">
+                    </div>
+
+
+                    <div class="camp-f1">
+                        <label for="foto">Agregar Foto</label>
+                        <input type="file" name="foto" id="foto">
+                    </div>
+                    <textarea name="descripcion" placeholder="Descripción" id="" cols="40" rows="15"></textarea>
+
+                    <div class="camp-f2">
+                        <div class="poderes">
+                            <h2>Poderes</h2>
+
+                            <input type="checkbox" name="" id=""><label for="">Volar</label> <br>
+                            <input type="checkbox" name="" id=""><label for="">SuperInteligencia</label><br>
+                            <input type="checkbox" name="" id=""><label for="">Vista de rayo láser</label><br>
+                            <input type="checkbox" name="" id=""><label for="">Billetera gorda</label><br>
+                        </div>
+                        <hr>
+                    </div>
+
+                    <div class="camp-f3">
+                        <div class="tipo">
+                            <input type="radio" name="tipo" id="heroe" value="heroe"><label for="heroe">Héroe /
+                                Heroina</label><br>
+                            <input type="radio" name="tipo" id="villano" value="villano"> <label for="villano">Villano /
+                                Villana</label><br>
+
+                        </div>
+                    </div>
+
+
+            </div>
+            <button type="submit">Añadir</button>
+            </form>
+        </div>
+        </div>
+    </main>
+    <footer>
+        <p>Todos los derechos reservados a FRONT END 1</p>
+    </footer>
+</body>
+
+</html>

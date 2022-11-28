@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ASINCRONICO.iml" filepath="$PROJECT_DIR$/.idea/ASINCRONICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercitacion Ingreso de datos/Ejercitacion Ingreso de datos.iml" filepath="$PROJECT_DIR$/Ejercitacion Ingreso de datos/Ejercitacion Ingreso de datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercitación String e Integer/Ejercitación String e Integer.iml" filepath="$PROJECT_DIR$/Ejercitación String e Integer/Ejercitación String e Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiPrimerProyecto/MiPrimerProyecto.iml" filepath="$PROJECT_DIR$/MiPrimerProyecto/MiPrimerProyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio1/ejercicio1.iml" filepath="$PROJECT_DIR$/ejercicio1/ejercicio1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+    font-family: 'Roboto';
+    box-sizing: border-box; 
+   
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
+.grandes-ofertas{
+    background-color:#222222;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    color: azure;
+    font-size: 15px;
+    justify-content: space-between;
+    position: relative;
+    
+
+}
+
+.grandes-ofertas p{
+    margin: 5px 100px;
+}
+
+.idiomas{
+    margin: 5px 100px ;
+
+    ;
+}
+
+button{
+    color: aliceblue;
+    background-color: #222222;
+    border: none;
+}
+
+
+nav{
+    background-color:#F0A83E;
+    width: 100%;
+    height: 62px;
+    display: flex;
+    justify-content: flex-end;
+    
+   
+   
+   
+}
+
+
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    position: relative;
+   
+   
+    
+}
+
+
+
+.banner img{
+    width: 100%
+}
+
+.banner  div{
+   display: flex;
+   flex-direction:column;
+   position: absolute;
+}
+
+.banner div .subtitle {
+    background-color: white;
+    border-radius: 3px;
+    font-size: 32px;  
+    width: 370px;  
+    height: 50px;
+    margin-top: -350px;
+    margin-left: 1000px;
+    text-align: center;
+    
+   
+}
+
+.banner div .subtitle2 {
+    font-size: 20px; 
+    margin-top: -280px;
+    margin-left: 1080px;
+  
+
+}
+
+.banner div .subtitle3 {
+    background-color: #F0A83E;
+    color: white;
+    font-size: 16px; 
+    margin-top: -220px;
+    margin-left: 1130px;
+    padding:20px;
+    text-align: center;
+
+}
+
+.pawprint{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Pdestacados{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: #3C2313;
+    padding: 10px;
+}
+
+.opciones{
+    display: flex;
+    font-size: 20px;
+   justify-content: center;
+   
+
+
+}
+
+.opciones a{
+    display: flex;
+    text-decoration: none;
+    color: #666666;
+    padding: 10px;
+    justify-content: center;
+    
+}
+
+ 
+.cards{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    
+}
+
+.cards figure{
+    margin: 10px;
+    text-align: center;
+}
+
+.cards figure p{
+    color: #F0A83E;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.contenedorContactos{
+    
+    justify-content: center;
+    
+}
+
+.contenedorContactos h2{
+    text-align: center;
+    font-size: 35px;
+    color: #3C2313;
+    margin-top: 30px;
+
+}
+
+
+.from input{
+    display: flex;
+    flex-direction: column;
+    margin: 15px 550px; 
+    text-align: center;
+    background-color: #3C2313;
+    color:  #E5E5E5;
+    font-size: 18px;
+    border-radius: 20px;
+    width: 340px;
+    height: 40px;
+    border: none;
+    
+}
+
+.resetear{
+    background-color:#8A8787;
+    border-radius: 150px;
+    color: #E5E5E5;
+    display: inline-block;
+    font-size: 16px;
+    height: 54px;
+    margin-left: 40%;
+    padding: 15px;
+    width: 150px;
+    margin-top: 50px;
+}
+
+.enviar{
+    background-color:#F0A83E;
+    border-radius:150px;
+    color: #E5E5E5;
+    display: inline-block;
+    font-size: 16px;
+    height: 54px;
+    padding: 15px;
+    width: 150px;
+}
+
+.suscribete{
+    background-color:#F0A83E;
+    display: flex ;
+    height: 100px;
+    margin-top: 150px;
+
+}
+
+.correo{
+    margin:30px  ;
+}
+
+
+.sub{
+    
+    color: #E5E5E5;
+    font-size: 30px;
+    margin-top: 30px;
+    width: 600px;
+}
+
+.SubCorreo input {
+    border-radius: 20px;
+    height: 60px;
+    margin-left: 320px;
+    margin-top: 25px;
+    width: 290px;
+    border: none;
+}
+
+.btnsuscribete {
+    background-color: #3C2313;
+    border-radius: 3em;
+    color: #E5E5E5;
+    height: 45px;
+    margin: 30 25;
+    width:110px;
+}
+
+.footer{
+    background-color:  #3C2313;;
+    width: 100%;
+    height: 500px;
+}
+
+.derechos {
+    background-color: #222222;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    color: #E5E5E5;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.image1 {
+
+    padding: 50px;
+    width:300px;
+}
+
+.image2 {
+
+    padding: 50px;
+    width:300px;
+}
+
+.image3 {
+    padding: 40px;
+    width:300px;
+}
+
+.image1 img {
+    width:200px;
+}
+
+.image2 img {
+    width:200px;
+}
+
+.image3 img {
+    width:290px;
+}
+
+.sub-pie-pagina2 {
+    display: flex;
+    justify-content: flex-end;
+    margin: -260px 20px;
+    
+}
+
+
+.image4 img {
+    width: 300px;
+}
+
+
+

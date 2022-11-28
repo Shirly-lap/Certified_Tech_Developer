@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588c8c37-32fb-4577-a81a-6e0c9523039d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CLASES/ejercisio2S/src/UsuarioJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASES/ejercisio2S/src/primos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Base de datos/Tecniautos.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Base de datos/Tecniautos.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Cat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Dog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Huesito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Icono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Logo Correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Logo telefono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/LogoFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/Phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/bowl-and-pet-daities-on-green-background 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/churrasquito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/comedero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/correo 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/logo localización.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/img/pawprint 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/PetShop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Material_Clase_2/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Material_Clase_2/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Material_Clase_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/Meza de trabajos/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/Meza de trabajos/img/849bfede3a5193c34ab8a00379e64fa2 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/Meza de trabajos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/img/liga-justicia-batman-kO4H--1024x512@abc 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/Modelado/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/PETHOP1/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/PETHOP1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/PETHOP1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase 5/img/feria1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase 5/img/feria2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase 5/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/Huesito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/Icono (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/Icono.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/Icono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/bowl-and-pet-daities-on-green-background 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/churrasquito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/comedero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/img/pawprint 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/clase_6_PETSHOP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/detalle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/img/desfile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/img/mariposa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/img/pavoReal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/clases/vistoEnClase/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/estilos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/detalle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/img/desfile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/img/mariposa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/img/pavoReal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Front End 1/vistoEnClase/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Actividades/Git_y_Github_Shirly_Mejia/PracticaClase6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Actividades/contactos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Actividades/home.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Actividades/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Actividades/repositorio_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/Git_y_Github_Shirly_Mejia/MochilaC10822FT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Intro infromatica/repositorio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/calculadora.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/prompt-sync/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/prompt-sync/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/prompt-sync/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/prompt-sync/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/prompt-sync/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Actividades/Calculadora/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Material clases/actividadFunciones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/Material clases/funciones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/FuncionesC5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/OperadoresC4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/clase1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/prompt-sync/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/prompt-sync/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/prompt-sync/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/prompt-sync/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/prompt-sync/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/ejemplos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/clase4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/prompt-sync/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/prompt-sync/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/prompt-sync/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/prompt-sync/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/prompt-sync/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Prog imperativa/grupo 4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../prueba1" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2GMPAwk2wvTQIDKXwiXMe8MIRfh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mendoza/Documents/DH/SEGUNDO BIMESTRE DH/POO/PRACTICA&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588c8c37-32fb-4577-a81a-6e0c9523039d" name="Changes" comment="" />
+      <created>1666195339670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666195339670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

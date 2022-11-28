@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Camion {
+public class Camion {
+    private String marca;
+    private String patente;
+    static private double valorCombustible;
 }

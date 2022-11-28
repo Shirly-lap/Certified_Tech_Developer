@@ -1,0 +1,20 @@
+body {
+  background-color: #E83F84;
+  margin: 0;
+}
+
+header .containerPerfil {
+  border-radius: 10px;
+  width: 100%;
+  height: 75px;
+  display: flex;
+  border-color: black;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+header img {
+  border-radius: 10px;
+  width: 50px;
+  height: 49px;
+  margin-top: 13px;
+}/*# sourceMappingURL=style.css.map */

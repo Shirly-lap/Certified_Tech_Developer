@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACT. CLASES/ACT. CLASES.iml" filepath="$PROJECT_DIR$/ACT. CLASES/ACT. CLASES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ACT.PG/ASINCRONICO/Ejercitacion Ingreso de datos/Ejercitacion Ingreso de datos.iml" filepath="$PROJECT_DIR$/ACT.PG/ASINCRONICO/Ejercitacion Ingreso de datos/Ejercitacion Ingreso de datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ACT.PG/ASINCRONICO/Ejercitación String e Integer/Ejercitación String e Integer.iml" filepath="$PROJECT_DIR$/ACT.PG/ASINCRONICO/Ejercitación String e Integer/Ejercitación String e Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ACT.PG/ASINCRONICO/MiPrimerProyecto/MiPrimerProyecto.iml" filepath="$PROJECT_DIR$/ACT.PG/ASINCRONICO/MiPrimerProyecto/MiPrimerProyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRACTICA/PRC.scanner/PRC.scanner.iml" filepath="$PROJECT_DIR$/PRACTICA/PRC.scanner/PRC.scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRACTICA/PRC.string-integer-float/PRC.string-integer-float.iml" filepath="$PROJECT_DIR$/PRACTICA/PRC.string-integer-float/PRC.string-integer-float.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ACT.PG/SINCRONICO/SINCRONICO.iml" filepath="$PROJECT_DIR$/ACT.PG/SINCRONICO/SINCRONICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ACT.PG/ASINCRONICO/ejercicio1/ejercicio1.iml" filepath="$PROJECT_DIR$/ACT.PG/ASINCRONICO/ejercicio1/ejercicio1.iml" />
+    </modules>
+  </component>
+</project>
